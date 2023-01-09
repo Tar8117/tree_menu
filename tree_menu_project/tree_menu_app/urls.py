@@ -1,4 +1,5 @@
 from django.urls import path
+
 from tree_menu_app import views
 
 urlpatterns = [

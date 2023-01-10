@@ -17,6 +17,7 @@
 1. Склонировать репозиторий
 
 ```git clone git@github.com:Tar8117/tree_menu.git```
+
 2. Открыть проект и создать виртуальное окружение. 
 
 ```python -m venv venv```
@@ -30,6 +31,7 @@
 ```cd tree_menu_project```
 
 ```python -m pip install -r requirements.txt``` 
+
 5. Выполнить миграции
 
 ```python manage.py migrate```

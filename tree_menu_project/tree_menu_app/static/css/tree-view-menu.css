@@ -1,3 +1,9 @@
+a{
+  text-decoration: none;
+  color: #265301;
+  font-weight: bold;
+}
+
 .tree{
   --spacing : 1.5rem;
   --radius  : 10px;
